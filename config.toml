@@ -1,4 +1,4 @@
-baseURL = "https://hololena.github.io/memyselfandmyavatars"
+baseURL = "https://hololena.github.io/MeMyselfAndMyAvatars"
 languageCode = "de"
 title = "Me, Myself & My Avatars"
 theme = ["hugo-shortcode-gallery", "avatars"]
