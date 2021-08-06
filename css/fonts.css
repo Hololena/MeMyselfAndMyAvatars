@@ -1,0 +1,55 @@
+@font-face {
+  font-family: openSans;
+  src: url(/fonts/OpenSans-Regular.ttf) format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: openSans-it;
+  src: url(/fonts/OpenSans-Italic.ttf) format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: openSans-bo;
+  src: url(/fonts/OpenSans-Bold.ttf) format("truetype");
+  font-weight: bold;
+}
+
+.menu {
+  font-family: openSans-bo;
+  font-size: 20px;
+}
+
+.title {
+  font-family: openSans-bo;
+  font-size: 38px;
+  line-height: 1.6;
+  /*text-shadow: 3px 3px #b3b3b3;*/
+}
+
+.projekt-title { 
+  font-family: openSans;
+  font-size: 18px; 
+}
+
+.team-title {
+  font-family: openSans;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.date {
+  font-family: openSans;
+  font-size: 17px;
+}
+
+body {
+  font-family: openSans;
+  font-size: 16px;
+}
+
+footer {
+   font-family: openSans;
+   font-size: 15px; 
+}
