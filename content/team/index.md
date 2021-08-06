@@ -25,7 +25,7 @@ arbeitet im Theater sowohl auf der Bühne als auch vor dem Computer.
 Als Puppenspieler und creativ coder interessieren ihn die Möglichkeiten digitaler Techniken im Theater.
 Nach seinem Studium an der HfS „Ernst Busch“ Berlin, Abteilung Puppenspielkunst war er bis 2020 Ensemblemitglied am Puppentheater Halle.
 In dieser Zeit war er Teil verschiedener internationaler Kooperationen wie mit der „Handspring Puppet Company“ und der Regisseurin Robyn Orlin oder der „Marc Sinan Company“.
-2021 war Stipendiat an der Akademie für Theater und Digitalität in Dortmund.
+2021 war er Stipendiat an der Akademie für Theater und Digitalität in Dortmund.
 Derzeit arbeitet er sowohl unter eigenem Namen als auch unter dem Label „Das Hybris“ als Puppenspieler, Schauspieler, Regisseur und Medienkünstler.
 [mehr](https://zecktos.github.io/)  
 
