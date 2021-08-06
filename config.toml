@@ -1,0 +1,25 @@
+baseURL = "https://hololena.github.io/memyselfandmyavatars"
+languageCode = "de"
+title = "Me, Myself & My Avatars"
+theme = ["hugo-shortcode-gallery", "avatars"]
+canonifyurls = true
+
+[menu]
+[[menu.main]]
+name = "Team"
+url = "/team/"
+
+[[menu.main]]
+name = "Projekt"
+url = "/"
+
+[Author]
+name = "Lena Biresch"
+email = "mailto:lena.biresch@gmx.de"
+
+[Params]
+titel = "My Avatars"
+favicon = "/img/logo.png"
+
+[markup.goldmark.renderer]
+unsafe= true

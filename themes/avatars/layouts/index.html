@@ -1,0 +1,7 @@
+{{ partial "header.html" . }}
+<main>
+<div class="projekt" >
+{{ with .GetPage "/projekt" }}{{ .Content }}{{end}}
+</div>
+</main>
+{{ partial "footer.html" . }}
