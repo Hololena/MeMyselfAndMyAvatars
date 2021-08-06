@@ -19,7 +19,7 @@ email = "mailto:lena.biresch@gmx.de"
 
 [Params]
 titel = "Me, Myself & My Avatars"
-favicon = "/MeMySelfAndMyAvatars/img/Avatar_Icon.png"
+favicon = "/MeMyselfAndMyAvatars/img/Avatar_Icon.png"
 
 [markup.goldmark.renderer]
 unsafe= true
