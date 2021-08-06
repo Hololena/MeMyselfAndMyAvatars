@@ -133,7 +133,7 @@ main h1,h2,h3,h4,h5,h6 {
   align-self: flex-start;
 }
 
-@media (max-width: 1095px) {
+@media (max-width: 1149px) {
   .team img {
 	float: none;
     display: block;
