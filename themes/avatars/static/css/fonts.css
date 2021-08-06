@@ -1,18 +1,18 @@
 @font-face {
   font-family: openSans;
-  src: url(/fonts/OpenSans-Regular.ttf) format("truetype");
+  src: url(/MeMyselfAndMyAvatars/fonts/OpenSans-Regular.ttf) format("truetype");
   font-weight: normal;
 }
 
 @font-face {
   font-family: openSans-it;
-  src: url(/fonts/OpenSans-Italic.ttf) format("truetype");
+  src: url(/MeMyselfAndMyAvatars/fonts/OpenSans-Italic.ttf) format("truetype");
   font-style: italic;
 }
 
 @font-face {
   font-family: openSans-bo;
-  src: url(/fonts/OpenSans-Bold.ttf) format("truetype");
+  src: url(/MeMyselfAndMyAvatars/fonts/OpenSans-Bold.ttf) format("truetype");
   font-weight: bold;
 }
 
